@@ -32,6 +32,18 @@ Contact us if you have any questions</description>
     </item>
     
     <item>
+<<<<<<< HEAD
+=======
+      <title>AGB</title>
+      <link>http://www.shiftsecurityleft.io/agb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.shiftsecurityleft.io/agb/</guid>
+      <description>§1 Lorem Bacon ipsum dolor amet pig pork hamburger tenderloin burgdoggen spare ribs bacon pancetta pork loin tail turducken. Chicken pastrami jerky tongue ball tip strip steak. Ball tip alcatra turkey, cupim strip steak swine short loin tenderloin pancetta corned beef ribeye cow short ribs. Turkey turducken flank filet mignon beef ribs pastrami rump, andouille prosciutto picanha kevin strip steak. Corned beef fatback landjaeger hamburger alcatra, bacon buffalo tongue cow biltong salami sirloin swine.</description>
+    </item>
+    
+    <item>
+>>>>>>> f04809788c15d13d9cb17838e725ceea5c3027c0
       <title>Contact Us</title>
       <link>http://www.shiftsecurityleft.io/contactus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
