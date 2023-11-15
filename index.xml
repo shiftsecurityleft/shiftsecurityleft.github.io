@@ -6,46 +6,36 @@
     <description>Recent content on Shift Security Left</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-	<atom:link href="http://www.shiftsecurityleft.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://www.shiftsecurityleft.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://www.shiftsecurityleft.io/sasse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://www.shiftsecurityleft.io/sasse/</guid>
       <description>Contact us if you have any questions</description>
     </item>
-    
     <item>
       <title>About Us</title>
       <link>http://www.shiftsecurityleft.io/aboutus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://www.shiftsecurityleft.io/aboutus/</guid>
       <description>We are a team of experienced practicing developers, security professionals, and engineers with a shared vision.
 Apply the shift left principle to cloud security to increase agility.
 We aim to empower developers and engineers with immediate feedback on best practices, help organizations reduce risk, improve policy transparency, and let everyone securely deploy apps into cloud.
 Contact us if you have any questions</description>
     </item>
-    
     <item>
       <title>Contact Us</title>
       <link>http://www.shiftsecurityleft.io/contactus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://www.shiftsecurityleft.io/contactus/</guid>
-      <description>Want more information?Subscribe and you will get the latest updates
-SubscribeWe won&#39;t send you spam. Unsubscribe at any time.Built with ConvertKit.formkit-form[data-uid=&#34;a077f6490f&#34;] *{box-sizing:border-box;}.formkit-form[data-uid=&#34;a077f6490f&#34;]{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}.formkit-form[data-uid=&#34;a077f6490f&#34;] legend{border:none;font-size:inherit;margin-bottom:10px;padding:0;position:relative;display:table;}.formkit-form[data-uid=&#34;a077f6490f&#34;] fieldset{border:0;padding:0.01em 0 0 0;margin:0;min-width:0;}.formkit-form[data-uid=&#34;a077f6490f&#34;] body:not(:-moz-handler-blocked) fieldset{display:table-cell;}.formkit-form[data-uid=&#34;a077f6490f&#34;] h1,.formkit-form[data-uid=&#34;a077f6490f&#34;] h2,.formkit-form[data-uid=&#34;a077f6490f&#34;] h3,.formkit-form[data-uid=&#34;a077f6490f&#34;] h4,.formkit-form[data-uid=&#34;a077f6490f&#34;] h5,.formkit-form[data-uid=&#34;a077f6490f&#34;] h6{color:inherit;font-size:inherit;font-weight:inherit;}.formkit-form[data-uid=&#34;a077f6490f&#34;] p{color:inherit;font-size:inherit;font-weight:inherit;}.formkit-form[data-uid=&#34;a077f6490f&#34;] ol:not([template-default]),.formkit-form[data-uid=&#34;a077f6490f&#34;] ul:not([template-default]),.formkit-form[data-uid=&#34;a077f6490f&#34;] blockquote:not([template-default]){text-align:left;}.formkit-form[data-uid=&#34;a077f6490f&#34;] p:not([template-default]),.formkit-form[data-uid=&#34;a077f6490f&#34;] hr:not([template-default]),.formkit-form[data-uid=&#34;a077f6490f&#34;] blockquote:not([template-default]),.formkit-form[data-uid=&#34;a077f6490f&#34;] ol:not([template-default]),.formkit-form[data-uid=&#34;a077f6490f&#34;] ul:not([template-default]){color:inherit;font-style:initial;}.formkit-form[data-uid=&#34;a077f6490f&#34;][data-format=&#34;modal&#34;]{display:none;}.formkit-form[data-uid=&#34;a077f6490f&#34;][data-format=&#34;slide in&#34;]{display:none;}.formkit-form[data-uid=&#34;a077f6490f&#34;][data-format=&#34;sticky bar&#34;]{display:none;}.formkit-sticky-bar .formkit-form[data-uid=&#34;a077f6490f&#34;][data-format=&#34;sticky bar&#34;]{display:block;}.formkit-form[data-uid=&#34;a077f6490f&#34;] .formkit-input,.formkit-form[data-uid=&#34;a077f6490f&#34;] .formkit-select,.formkit-form[data-uid=&#34;a077f6490f&#34;] .formkit-checkboxes{width:100%;}.formkit-form[data-uid=&#34;a077f6490f&#34;] .formkit-button,.formkit-form[data-uid=&#34;a077f6490f&#34;] .formkit-submit{border:0;border-radius:5px;color:#ffffff;cursor:pointer;display:inline-block;text-align:center;font-size:15px;font-weight:500;cursor:pointer;margin-bottom:15px;overflow:hidden;padding:0;position:relative;vertical-align:middle;}.formkit-form[data-uid=&#34;a077f6490f&#34;] .formkit-button:hover,.formkit-form[data-uid=&#34;a077f6490f&#34;] .formkit-submit:hover,.formkit-form[data-uid=&#34;a077f6490f&#34;] .formkit-button:focus,.formkit-form[data-uid=&#34;a077f6490f&#34;] .formkit-submit:focus{outline:none;}.formkit-form[data-uid=&#34;a077f6490f&#34;] .formkit-button:hover  span,.formkit-form[data-uid=&#34;a077f6490f&#34;] .formkit-submit:hover  span,.formkit-form[data-uid=&#34;a077f6490f&#34;] .formkit-button:focus  span,.formkit-form[data-uid=&#34;a077f6490f&#34;] .formkit-submit:focus  span{background-color:rgba(0,0,0,0.</description>
+      <description> Want more information?Subscribe and you will get the latest updates
+SubscribeWe won&#39;t send you spam. Unsubscribe at any time.Built with ConvertKit </description>
     </item>
-    
     <item>
       <title>Credits</title>
       <link>http://www.shiftsecurityleft.io/credits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://www.shiftsecurityleft.io/credits/</guid>
       <description>Icons made by Pixel perfect from www.flaticon.com
 Freepik from www.flaticon.com
@@ -53,45 +43,36 @@ Becris from www.flaticon.com
 Tomas Knop from www.flaticon.com
 srip from www.flaticon.com</description>
     </item>
-    
     <item>
       <title>Infrapipe</title>
       <link>http://www.shiftsecurityleft.io/infrapipe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://www.shiftsecurityleft.io/infrapipe/</guid>
       <description>What is Infrapipe? Infrapipe is an open source, end-to-end, right out of the box, secure DevOps platform that you can control and deploy in your own cloud provider. It is the center of achieving all the goodness of an enterprise secure solution but also the agility and speed a start-up needs.
 Infrapipe combines the power of code and infrastructure being deployed from one repository to allow developers to make strategic infrastructure changes along with their application code to enhance productivity.</description>
     </item>
-    
     <item>
       <title>Products</title>
       <link>http://www.shiftsecurityleft.io/products/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://www.shiftsecurityleft.io/products/</guid>
       <description>Infrapipe
 We&amp;rsquo;re actively working on more</description>
     </item>
-    
     <item>
       <title>What are we Working on?</title>
       <link>http://www.shiftsecurityleft.io/whatscoming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://www.shiftsecurityleft.io/whatscoming/</guid>
       <description>Asset Management at DevOps Speed Governance Risk and Compliance at DevOps Speed More secure patterns to help you deliver quickly and securely More integrations into Infrapipe to help continue to shift security left Contact Us if you would like to help contribute</description>
     </item>
-    
     <item>
       <title>What does it mean to Shift Security Left?</title>
       <link>http://www.shiftsecurityleft.io/shiftsecurityleft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://www.shiftsecurityleft.io/shiftsecurityleft/</guid>
       <description>Very simply it means always start with security. The term “shift left” is used to describe taking a process that is typically performed later in a process and moving it earlier in the lifecycle. Much like in car manufacturing, shifting left would be taking a function and moving it closer to the design process rather than at the end when the car is fully assembled.
 The cost Issues identified earlier in the design process are much easier and less expensive to fix than problems found after delivery.</description>
     </item>
-    
   </channel>
 </rss>
